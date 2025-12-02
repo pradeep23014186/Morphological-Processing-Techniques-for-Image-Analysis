@@ -45,7 +45,7 @@ plt.imshow(img, cmap='gray')
 
 # Create the Text using cv2.putText
 def load():
-    cv2.putText(img, text='KRISHNA', org=(35, 340), fontFace=cv2.FONT_HERSHEY_SIMPLEX, fontScale=4, color=(255, 255, 255), thickness=20)
+    cv2.putText(img, text='PRADEEP', org=(35, 340), fontFace=cv2.FONT_HERSHEY_SIMPLEX, fontScale=4, color=(255, 255, 255), thickness=20)
 
 def display_img():
     plt.imshow(img,cmap='gray')
