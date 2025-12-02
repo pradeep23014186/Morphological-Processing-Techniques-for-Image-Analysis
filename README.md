@@ -1,4 +1,4 @@
-# OPENING--AND-CLOSING--Using--OpenCV
+# Morphological-Processing-Techniques-for-Image-Analysis
 ## Aim
 To implement Opening and Closing using Python and OpenCV.
 
@@ -26,8 +26,8 @@ Use Closing Operation.
  
 ## Program:
 ```
-Developed By : Krishna Prasad S
-Register No. : 212223230108
+Developed By : Pradeep kumar G
+Register No. : 212223230150
 ```
 
 ``` Python
